@@ -1,3 +1,3 @@
-# Welcome To TOKR!
+# TOKR Web Docs
 
-Welcome to the TOKR wiki! Here you'll find everything you need to know about our project.
+These docs are specific for the web platform for DAO setup and management.
